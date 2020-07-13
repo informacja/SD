@@ -1,0 +1,2 @@
+# SSD
+Symulatory systemów dynamicznych
