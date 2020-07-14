@@ -1,5 +1,7 @@
 # SSD
 Symulatory systemów dynamicznych
 
-
-Obiekt fizyczny
+![Systemy Dynamiczne](docs/SD.png)
+##### TO DO 
+- Obiekt fizyczny
+- Przypadki użycia (Use Case from UML)
