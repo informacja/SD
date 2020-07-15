@@ -1,6 +1,6 @@
 # [Systemy Dynamiczne](https://drive.google.com/drive/folders/18SL_04ZJZEdssj8nQ3870lcomgU-SiBl?usp=sharing)
 #### Podstawy
-[ 
+[
 ![Systemy Dynamiczne](docs/SD.svg)
 ](https://drive.google.com/file/d/1Ed_OcE8szFmOquqJNxDQRGswGA26TAQb/view?usp=sharing)
 
@@ -8,6 +8,9 @@
 [
     ![Systemy Dynamiczne](docs/SD.png)
 ](https://drive.google.com/open?id=1aEgnCcPuFS5yrVLVuNkRwuGep-yxadW5)
+
+## Przypadki użycia (Use Case from UML)
+![Systemy Dynamiczne](docs/UC.svg)
+
 ##### TO DO:
 - Obiekt fizyczny
-- Przypadki użycia (Use Case from UML)
