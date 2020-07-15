@@ -1,5 +1,5 @@
-# [Systemy Dynamiczne](https://drive.google.com/drive/folders/18SL_04ZJZEdssj8nQ3870lcomgU-SiBl?usp=sharing)
-#### Podstawy
+# [Systemy Dynamiczne :dash:](https://drive.google.com/drive/folders/18SL_04ZJZEdssj8nQ3870lcomgU-SiBl?usp=sharing)
+#### Podstawy 
 [
 ![Systemy Dynamiczne](docs/SD.svg)
 ](https://drive.google.com/file/d/1Ed_OcE8szFmOquqJNxDQRGswGA26TAQb/view?usp=sharing)
@@ -12,5 +12,8 @@
 ## Przypadki użycia (Use Case from UML)
 ![Systemy Dynamiczne](docs/UC.svg)
 
-##### TO DO:
+##### To do:
+- Sygnał 
+- Obiekt
+- Model
 - Obiekt fizyczny
