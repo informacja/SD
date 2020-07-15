@@ -1,7 +1,12 @@
-# SD
-Symulatory systemów dynamicznych
+# [Systemy Dynamiczne](https://drive.google.com/drive/folders/18SL_04ZJZEdssj8nQ3870lcomgU-SiBl?usp=sharing)
+#### Podstawy
+[ 
+![Systemy Dynamiczne](docs/SD.svg)
+](https://drive.google.com/file/d/1Ed_OcE8szFmOquqJNxDQRGswGA26TAQb/view?usp=sharing)
+
+#### Opis
 [
-![Systemy Dynamiczne](docs/SD.png)
+    ![Systemy Dynamiczne](docs/SD.png)
 ](https://drive.google.com/open?id=1aEgnCcPuFS5yrVLVuNkRwuGep-yxadW5)
 ##### TO DO:
 - Obiekt fizyczny
