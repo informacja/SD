@@ -12,6 +12,13 @@
 ## Przypadki użycia (Use Case from UML)
 ![Systemy Dynamiczne](docs/UC.svg)
 
+### FAQ
+- Czym różni się obiekt od modelu?
+> Dziedziną
+    * Obiekt - Rzeczywista
+    * Model - Abstrakcyjna (nasze domysły jaki obiekt jest)
+
+
 ##### To do:
 - Sygnał 
 - Obiekt
