@@ -1,4 +1,4 @@
-# [Systemy Dynamiczne :dash:](https://drive.google.com/drive/folders/18SL_04ZJZEdssj8nQ3870lcomgU-SiBl?usp=sharing)
+# [Systemy Dynamiczne](https://drive.google.com/drive/folders/18SL_04ZJZEdssj8nQ3870lcomgU-SiBl?usp=sharing)
 #### Podstawy 
 [
 ![Systemy Dynamiczne](docs/SD.svg)
