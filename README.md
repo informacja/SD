@@ -16,7 +16,7 @@
 - Czym różni się obiekt od modelu?
 > Dziedziną
 >   * Obiekt - dziedzina Rzeczywista
->   * Model - dziedzinaAbstrakcyjna (nasze domysły jaki obiekt jest)
+>   * Model - dziedzina Abstrakcyjna (nasze domysły jaki obiekt jest)
 
 
 ##### To do:
