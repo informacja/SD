@@ -15,8 +15,8 @@
 ### FAQ
 - Czym różni się obiekt od modelu?
 > Dziedziną
-    * Obiekt - Rzeczywista
-    * Model - Abstrakcyjna (nasze domysły jaki obiekt jest)
+>    * Obiekt - Rzeczywista
+>   * Model - Abstrakcyjna (nasze domysły jaki obiekt jest)
 
 
 ##### To do:
