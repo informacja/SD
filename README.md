@@ -17,7 +17,7 @@
 > Dziedziną
 >   * Obiekt - dziedzina Rzeczywista
 >   * Model - dziedzina Abstrakcyjna (nasze domysły jaki obiekt jest)
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRypIZrO0XMHdobADYJyyEg1JV65aZ6ZNvgCw5qXQ0nVfnYPXIyDGx-YDPsOtqejU40AIY3dFnXIxM-/pubhtml?widget=true&amp;headers=false"></iframe>
 <iframe id="inlineFrameExample"
     title="Inline Frame Example"
     width="300"
