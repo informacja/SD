@@ -8,7 +8,7 @@
 
 > Dla każdego technika będzie znaczyć co innego: informatyk pomyśli o urządzeniu sieciowym, elektronik o przycisku, a programista o instrukcji warunkowej.
 
-> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego ... jest to język formalny, który znajdzie zastosowanie nie tylko w ściśle inżynierskim słownictwie.
+> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego ... jest to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w ściśle inżynierskim słownictwie.
 #### Opis
 [
     ![Systemy Dynamiczne](docs/SD.png)
