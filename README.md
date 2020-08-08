@@ -3,7 +3,12 @@
 [
 ![Systemy Dynamiczne](docs/SDM.svg)
 ](https://drive.google.com/file/d/1Ed_OcE8szFmOquqJNxDQRGswGA26TAQb/view?usp=sharing)
+###### Dziedzna określa znaczenie słów.
+> Dla przykładu weźmy słowo: **switch**
 
+> Dla każdego technika będzie znaczyć co innego: informatyk pomyśli o urządzeniu sieciowym, elektronik o przycisku, a programista o instrukcji warunkowej.
+
+> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego ... jest to język formalny, który znajdzie zastosowanie nie tylko w ściśle inżynierskim słownictwie.
 #### Opis
 [
     ![Systemy Dynamiczne](docs/SD.png)
