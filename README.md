@@ -32,3 +32,5 @@ ETAPY wykładu
   - Teoria
   - sytneza
   - praktyka
+Dlaczego używać map myśli?
+https://youtu.be/5nTuScU70As
