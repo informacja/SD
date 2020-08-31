@@ -21,10 +21,14 @@
 
 ### FAQ
 - Czym różni się obiekt od modelu?
-> Dziedziną
->   * Obiekt - dziedzina Rzeczywista
->   * Model - dziedzina Abstrakcyjna (nasze wyobrażenia jaki obiekt jest)
 
+> **Dziedziną**  
+
+> abstrakcja jest uproszczeniem rzeczywistości, w sensie formalnym badań
+
+>   * Obiekt - dziedzina Rzeczywista (to co jest obserwowalne)
+>   * Model - dziedzina Abstrakcyjna (nasze wyobrażenia jaki obiekt jest)
+    
 ## Przypadki użycia (Use Case from UML)
 ![Systemy Dynamiczne](docs/UC.svg)
 
