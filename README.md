@@ -36,6 +36,7 @@ a programista o instrukcji warunkowej.<br>
     
 Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As
+Mapy myśli angażują kilka zmysłów równocześnie. Przesłanie: uczmy dzieci robić mapy myśli. 
 
 ETAPY wykładu
   - Teoria
