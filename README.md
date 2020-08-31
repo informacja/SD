@@ -40,7 +40,7 @@ Mapy myśli angażują kilka zmysłów równocześnie. Przesłanie: uczmy dzieci
 
 ETAPY wykładu
   - Teoria
-  - sytneza - dla mnie najbardziej interesująca część, czyli jak wykładowca stosuje w praktyce wykładany przedmiot (np. ostatnio realizowany projekt)
+  - sytneza - dla mnie najbardziej interesująca część, czyli jak wykładowca stosuje w praktyce to o czym mówi (np. ostatnio realizowany projekt)
   - praktyka
   
 ## Przypadki użycia (Use Case from UML)
