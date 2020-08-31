@@ -6,13 +6,10 @@
 #### Dziedzna określa znaczenie słów.
 > Dla przykładu weźmy słowo: **switch**
 
-> Dla każdego technika będzie znaczyć co innego: 
-
-informatyk pomyśli o urządzeniu sieciowym,
-
-elektronik o przycisku,
-
-a programista o instrukcji warunkowej.
+> Dla każdego technika będzie znaczyć co innego: <br>
+informatyk pomyśli o urządzeniu sieciowym,<br>
+elektronik o przycisku,<br>
+a programista o instrukcji warunkowej.<br>
 
 > Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego ... jest to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w ściśle inżynierskim słownictwie.
 #### Opis
