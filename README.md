@@ -25,6 +25,7 @@ a programista o instrukcji warunkowej.<br>
 
 <iframe width='853' height='480' src='https://embed.coggle.it/diagram/X09QIkXhP3RWtFK5/7a0c9da2beb4aca40c426dae98c26b86652a977993ddcdc85997498746a0f977' frameborder='0' allowfullscreen></iframe>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1fwnl5hvkkwz-YDZrogyGnx274BqmozGlIeXyjJ2TKmE/pubchart?oid=462316012&amp;format=interactive"></iframe>
+
 ### FAQ
 - Czym różni się obiekt od modelu?
 
