@@ -3,19 +3,6 @@
 [
 ![Systemy Dynamiczne](docs/SDM.svg)
 ](https://drive.google.com/file/d/1Ed_OcE8szFmOquqJNxDQRGswGA26TAQb/view?usp=sharing)
-#### Dziedzna określa znaczenie słów.
-> Dla przykładu weźmy słowo: **switch**
-
-> Dla każdego technika będzie znaczyć co innego: <br>
-informatyk pomyśli o urządzeniu sieciowym,<br>
-elektronik o przycisku,<br>
-a programista o instrukcji warunkowej.<br>
-
-> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego ... jest to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w ściśle inżynierskim słownictwie.
-#### Opis
-[
-    ![Systemy Dynamiczne](docs/SD.png)
-](https://drive.google.com/open?id=1aEgnCcPuFS5yrVLVuNkRwuGep-yxadW5)
 
 ### *Mapy myśli* trakcie tworzenia (ToDo):
 
@@ -24,6 +11,20 @@ a programista o instrukcji warunkowej.<br>
 [Model :thought_balloon:](https://coggle.it/diagram/X1IYJYaHERRyfiQK/t/-/a1551ac62763b18af5cceba8ebb601ecdb6cf6d306a26ed74fa4f7282f3007de)
 =========
 
+#### Opis
+[
+ ![Systemy Dynamiczne](docs/SD.png)
+](https://drive.google.com/open?id=1aEgnCcPuFS5yrVLVuNkRwuGep-yxadW5)
+
+#### Dziedzna określa znaczenie słów.
+> Dla przykładu weźmy słowo: **switch**
+
+> Dla każdego technika będzie znaczyć co innego: <br>
+*elektronik* o przycisku,<br>
+*programista* o instrukcji warunkowej,<br>
+a *informatyk* pomyśli o urządzeniu sieciowym.<br>
+
+> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego ... jest to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w ściśle inżynierskim słownictwie.
 
 ### FAQ
 - Czym różni się obiekt od modelu?
