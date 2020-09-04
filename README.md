@@ -20,8 +20,8 @@ a programista o instrukcji warunkowej.<br>
 #### *Mapy myśli* trakcie tworzenia (ToDo):
 
 [Sygnał](https://coggle.it/diagram/X09QIkXhP3RWtFK5/t/sygna%C5%82-numeryczny-cps-to-do-formalny-r%C3%B3wnania/6cbbf8b372776990c6676bddb9cbccc7aba9b652863d50387a690861d1988d71)
-Obiekt
-Model 
+[biekt :film_projector:](https://coggle.it/diagram/X1EBTeYLAu4xBF8Y/t/obiekt-proces/a677a207a644e4d684e081316568503f7e4f0edc904344be32c2a6671b05894c)
+[Model:ruler:](https://coggle.it/diagram/X1IYJYaHERRyfiQK/t/-/a1551ac62763b18af5cceba8ebb601ecdb6cf6d306a26ed74fa4f7282f3007de)
 =========
 
 
