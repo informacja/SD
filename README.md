@@ -1,15 +1,17 @@
 # [Systemy Dynamiczne](https://drive.google.com/drive/folders/18SL_04ZJZEdssj8nQ3870lcomgU-SiBl?usp=sharing) - Mind Palace
+### *Mapy myśli* trakcie tworzenia :
+
+[Sygnał :zap:](https://coggle.it/diagram/X1j0eG89oR9IEMgE/t/sygna%C5%82-zap/a41b41437749651ef746a7f43989e6f4ae836821485ebf3ca3dc237364c51249)
+[Obiekt :film_projector:](https://coggle.it/diagram/X1j6TG89oQteENAx/t/obiekt-film_projector/d20da092af43109ed12b50416ec609243b78d0a4bb31689ccbc3d0acc9b97edf)
+[Model :thought_balloon:](https://coggle.it/diagram/X1j5ak37tNCUiQML/t/model-thought_balloon/08be4cfb1e4ba2a52af843f003a05e8496bd500e76400278ed1be801fba9d828)
+=========
+
 #### Podstawy 
 [
 ![Systemy Dynamiczne](docs/SDM.svg)
 ](https://drive.google.com/file/d/1Ed_OcE8szFmOquqJNxDQRGswGA26TAQb/view?usp=sharing)
 
-### *Mapy myśli* trakcie tworzenia (ToDo):
 
-[Sygnał :zap:](https://coggle.it/diagram/X1j0eG89oR9IEMgE/t/sygna%C5%82-zap/a41b41437749651ef746a7f43989e6f4ae836821485ebf3ca3dc237364c51249)
-[Obiekt :film_projector:](https://coggle.it/diagram/X1EBTeYLAu4xBF8Y/t/obiekt-proces/a677a207a644e4d684e081316568503f7e4f0edc904344be32c2a6671b05894c)
-[Model :thought_balloon:](https://coggle.it/diagram/X1IYJYaHERRyfiQK/t/-/a1551ac62763b18af5cceba8ebb601ecdb6cf6d306a26ed74fa4f7282f3007de)
-=========
 
 #### Opis
 [
