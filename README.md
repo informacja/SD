@@ -52,9 +52,11 @@ ETAPY wykładu
   
   Literatura: 
 [1] Jan T. Duda
-[2] W. Byrski
-[3] Kaczorek
-[4] Nowak
+[2] Witold Byrski
+[3] Tomasz Zieliński
+[4] Edward Nowak
+[5] Tadeusz Kaczorek
+
 
   > Problem nieporozuienia nie leży w moności języków, ale w sposobie ich interpretacji.
   
