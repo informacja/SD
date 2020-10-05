@@ -49,6 +49,13 @@ ETAPY wykładu
   - sytneza - dla mnie najbardziej interesująca część, czyli jak wykładowca stosuje w praktyce to o czym mówi (np. ostatnio realizowany projekt)
   - praktyka
   
+  
+  Literatura: 
+[1] Jan T. Duda
+[2] W. Byrski
+[3] Kaczorek
+[4] Nowak
+
   > Problem nieporozuienia nie leży w moności języków, ale w sposobie ich interpretacji.
   
 ## Przypadki użycia (Use Case from UML)
