@@ -52,8 +52,8 @@ ETAPY wykładu
   
   Literatura: 
 [1] Jan T. Duda
-[2] Witold Byrski
-[3] Tomasz Zieliński
+[2] Tomasz Zieliński
+[3] Witold Byrski
 [4] Edward Nowak
 [5] Tadeusz Kaczorek
 
