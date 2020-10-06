@@ -1,4 +1,4 @@
-# [Systemy Dynamiczne](https://coggle.it/diagram/X1pYv04r0v3pMzn-/t/-/35e679aefe319b534d32b8339196662afced338bf7a6c6bd9cfcdc6709ff4f98) - Mind Palace
+# [Systemy Dynamiczne](https://coggle.it/diagram/X1pYv04r0v3pMzn-/t/-/35e679aefe319b534d32b8339196662afced338bf7a6c6bd9cfcdc6709ff4f98) - Mapy myśli
 ### *Mapy myśli* trakcie tworzenia :
 
 [Sygnał :zap:](https://coggle.it/diagram/X1j0eG89oR9IEMgE/t/sygna%C5%82-zap/a41b41437749651ef746a7f43989e6f4ae836821485ebf3ca3dc237364c51249)
