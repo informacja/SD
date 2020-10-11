@@ -51,7 +51,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
   
 Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
-Mapy myśli angażują kilka zmysłów równocześnie. Przesłanie: uczmy dzieci robić mapy myśli. 
+Mapy myśli angażują kilka zmysłów poznawczych równocześnie. Przesłanie: uczmy dzieci robić mapy myśli. 
 
 > Przy stawianiu tez istotą jest poszukiwanie wielowymiarowej symetrii.
 
