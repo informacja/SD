@@ -42,7 +42,7 @@ Jest to płaszczynza rozwoju dziedzin naukowych metodą teo-info o reprezentacji
 
 - Jaki jest cel?
 
-> Cel to optymalne wykożystanie kwantu czasu w parametrze przestrzeni przez obiekt. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawdy.
+> Cel to optymalne wykożystanie kwantu czasu z parametrem przestrzeni poprzez obiekt. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawdy.
 
 # Notatki :)    
     
@@ -56,9 +56,9 @@ ETAPY wykładu
   - Teoria
   - sytneza - dla mnie najbardziej interesująca część, czyli jak wykładowca stosuje w praktyce to o czym mówi (np. ostatnio realizowany projekt)
   - praktyka
+    
+ ### Literatura i wzorce: 
   
-  
-  Literatura i wzorce: 
 [1] Jan T. Duda 
 
 [2] Tomasz Zieliński "Reprezentacje sygnałów niestacjonarnych typu czas-częstotliwość i czas-skala"
