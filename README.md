@@ -28,7 +28,6 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 
 ### FAQ
 
-
 - Czym różni się obiekt od modelu?
 
 > **Dziedziną**  
@@ -41,12 +40,14 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 - Co to są mapy myśli?
 Jest to płaszczynza rozwoju dziedzin naukowych metodą teo-info o reprezentacji w paradygmacie wizualnym.
 
-Jaki jest cel?
+- Jaki jest cel?
 
-> Cel to optymalne wykożystanie kwantu czasu w parametrze przestrzeni przez obiekt. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym szukaniu prawdy.
+> Cel to optymalne wykożystanie kwantu czasu w parametrze przestrzeni przez obiekt. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawdy.
 
 # Notatki :)    
     
+  > Problem nieporozuienia nie leży w moności języków, ale w sposobie ich interpretacji.
+  
 Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
 Mapy myśli angażują kilka zmysłów równocześnie. Przesłanie: uczmy dzieci robić mapy myśli. 
@@ -57,20 +58,28 @@ ETAPY wykładu
   - praktyka
   
   
-  Literatura: 
+  Literatura i wzorce: 
 [1] Jan T. Duda 
-[2] Tomasz Zieliński "Cyfrowe Przetwarzanie Sygnałów"
-[3] Witold Byrski "
-[4] Edward Nowak "Ekonometria"
+
+[2] Tomasz Zieliński "Reprezentacje sygnałów niestacjonarnych typu czas-częstotliwość i czas-skala"
+
+[3] Witold Byrski "Obserwacja i sterowanie w systemach dynamicznych"
+
+[4] Edward Nowak "Ekonometria. Zbiór zadań"
+
 [5] Tadeusz Kaczorek "Teoria sterowania i systemów"
+
 [6] Michał Szafrański "Zaufanie, waluta przyszłości"
+
 [7] Albert Einstein "Sczególna teoria względności"
+
 [8] Krzysztof Kieślowski "Zbliżenie"
+
 [9] Krzysztof Meissner "Na początku było prawo"
 
+[10] Krzysztof Zanussi "Uczyń z swojego życia arcydzieło"
 
-  > Problem nieporozuienia nie leży w moności języków, ale w sposobie ich interpretacji.
-  
+
 ## Przypadki użycia (Use Case from UML)
 ![Systemy Dynamiczne](docs/UC.svg)
 
