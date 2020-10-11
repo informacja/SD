@@ -11,8 +11,6 @@
 ![Systemy Dynamiczne](docs/SDM.svg)
 ](https://drive.google.com/file/d/1Ed_OcE8szFmOquqJNxDQRGswGA26TAQb/view?usp=sharing)
 
-
-
 #### Opis
 [
  ![Systemy Dynamiczne](docs/SD.png)
@@ -29,6 +27,8 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 > Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego ... jest to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w ściśle inżynierskim słownictwie.
 
 ### FAQ
+
+
 - Czym różni się obiekt od modelu?
 
 > **Dziedziną**  
@@ -38,6 +38,13 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 >   * Obiekt - dziedzina Rzeczywista (to co jest obserwowalne)
 >   * Model - dziedzina Abstrakcyjna (nasze wyobrażenia jaki obiekt jest)
     
+- Co to są mapy myśli?
+Jest to płaszczynza rozwoju dziedzin naukowych metodą teo-info o reprezentacji w paradygmacie wizualnym.
+
+Jaki jest cel?
+
+> Cel to optymalne wykożystanie kwantu czasu w parametrze przestrzeni przez obiekt. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym szukaniu prawdy.
+
 # Notatki :)    
     
 Dlaczego używać map myśli?
@@ -51,11 +58,15 @@ ETAPY wykładu
   
   
   Literatura: 
-[1] Jan T. Duda
-[2] Tomasz Zieliński
-[3] Witold Byrski
-[4] Edward Nowak
-[5] Tadeusz Kaczorek
+[1] Jan T. Duda 
+[2] Tomasz Zieliński "Cyfrowe Przetwarzanie Sygnałów"
+[3] Witold Byrski "
+[4] Edward Nowak "Ekonometria"
+[5] Tadeusz Kaczorek "Teoria sterowania i systemów"
+[6] Michał Szafrański "Zaufanie, waluta przyszłości"
+[7] Albert Einstein "Sczególna teoria względności"
+[8] Krzysztof Kieślowski "Zbliżenie"
+[9] Krzysztof Meissner "Na początku było prawo"
 
 
   > Problem nieporozuienia nie leży w moności języków, ale w sposobie ich interpretacji.
