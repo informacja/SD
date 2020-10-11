@@ -38,7 +38,8 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 >   * Model - dziedzina Abstrakcyjna (nasze wyobrażenia jaki obiekt jest)
     
 - Co to są mapy myśli?
-Jest to płaszczynza rozwoju dziedzin naukowych metodą teo-info o reprezentacji w paradygmacie wizualnym.
+
+> Jest to płaszczynza rozwoju dziedzin naukowych metodą teo-info o reprezentacji w paradygmacie wizualnym.
 
 - Jaki jest cel?
 
@@ -59,7 +60,7 @@ ETAPY wykładu
     
  ### Literatura i wzorce: 
   
-[1] Jan T. Duda 
+[1] Jan T. Duda "Algorytmy zaawansowanego sterowania nadrzędnego i ich implementacja w komputerowych systemach automatyki"
 
 [2] Tomasz Zieliński "Reprezentacje sygnałów niestacjonarnych typu czas-częstotliwość i czas-skala"
 
