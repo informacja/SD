@@ -79,11 +79,11 @@ ETAPY wykładu
 
 [7] Albert Einstein "Sczególna teoria względności"
 
-[8] Krzysztof Kieślowski "Zbliżenie"
+[8] Krzysztof Kieślowski "Zbliżenie" - Sens dąży do jedności
 
-[9] Krzysztof Meissner "Na początku było prawo"
+[9] [Krzysztof Meissner](https://www.youtube.com/watch?v=HhSdMIeNRHU) "Na początku było prawo"
 
-[10] Krzysztof Zanussi "Uczyń z swojego życia arcydzieło"
+[10] [Krzysztof Zanussi](https://youtu.be/hw2QYCrbAcY?t=395) "Uczyń z swojego życia arcydzieło"
 
 
 ## Przypadki użycia (Use Case from UML)
