@@ -81,7 +81,7 @@ ETAPY wykładu
 
 [8] Krzysztof Kieślowski "Zbliżenie" - Sens dąży do jedności
 
-[9] [Krzysztof Meissner](https://www.youtube.com/watch?v=HhSdMIeNRHU) "Na początku było prawo"
+[9] [Krzysztof](https://youtu.be/FmSsNUkiGM8?t=1179) [Meissner](https://www.youtube.com/watch?v=HhSdMIeNRHU) "Na początku było prawo"
 
 [10] [Krzysztof Zanussi](https://youtu.be/hw2QYCrbAcY?t=395) "Uczyń z swojego życia arcydzieło"
 
