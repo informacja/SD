@@ -73,9 +73,9 @@ ETAPY wykładu
 
 [4] Edward Nowak "Ekonometria. Zbiór zadań"
 
-[5] Tadeusz Kaczorek "Teoria sterowania i systemów"
+[5] Tadeusz Kaczorek **"Teoria sterowania i systemów"
 
-[6] Michał Szafrański "Zaufanie, waluta przyszłości"
+[6] Michał Szafrański **"Zaufanie, waluta przyszłości"
 
 [7] Albert Einstein "Sczególna teoria względności"
 
