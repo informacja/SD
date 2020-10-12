@@ -53,7 +53,7 @@ Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
 Mapy myśli angażują kilka zmysłów poznawczych równocześnie. Przesłanie: uczmy dzieci robić mapy myśli. 
 
-> Przy stawianiu tezy, istotą jest poszukiwanie wielowymiarowej symetrii. Suma przeciwności nie nie daje gwarancji pełnej symetrii, dlatego nie należy zera przyjmować za normę.
+> Przy stawianiu tezy, istotą jest poszukiwanie wielowymiarowej symetrii. Suma przeciwności nie nie daje gwarancji pełnej symetrii, dlatego nie należy przyjmować zera jako wartość normalną.
 
 Przykłady lokalnych i globalnych symetrii dla systemu apikacji mobilnej.
 [coggle.it](https://coggle.it/diagram/X3_hahiU9AZJpjAe/t/system-aplikacji-mobilnej)
