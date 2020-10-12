@@ -65,13 +65,13 @@ ETAPY wykładu
     
  ### Literatura i wzorce: 
   
-[1] Jan T. Duda "Algorytmy zaawansowanego sterowania nadrzędnego i ich implementacja w komputerowych systemach automatyki"
+[1] Jan T. Duda "Modele matematyczne, struktury i algorytmy nadrzędnego sterowania komputerowego"
 
 [2] Tomasz Zieliński "Reprezentacje sygnałów niestacjonarnych typu czas-częstotliwość i czas-skala"
 
 [3] Witold Byrski "Obserwacja i sterowanie w systemach dynamicznych"
 
-[4] Edward Nowak "Ekonometria. Zbiór zadań"
+[4] Edward Nowak "Zarys metod ekonometrii Zbiór zadań"
 
 [5] Tadeusz Kaczorek **"Teoria sterowania i systemów"**
 
