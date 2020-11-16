@@ -49,7 +49,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
     
   > Problem nieporozuienia nie leży w moności języków, ale w sposobie ich interpretacji.
   
-  > Będąc początkiem drogi przydaje talent jak egoizm, trzeba umieć wykożystać znaczenie, poznać język swój. Bez tego dłuższa droga bezcelowa jest, dlatego należy zadbać podstawy.
+  > Będąc początkiem drogi przydaje się talent jak egoizm, trzeba umieć wykożystać znaczenie, poznać język swój. Bez tego dłuższa droga bezcelowa jest, dlatego należy zadbać podstawy.
   
 Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
