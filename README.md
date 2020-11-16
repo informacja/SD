@@ -39,7 +39,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
     
 - Co to są mapy myśli?
 
-> Jest to płaszczynza rozwoju dziedzin naukowych empiryczną metodą mat-teo-info o reprezentacji poznawczej w paradygmacie natężenia wizualnego (inter) oraz napięcia atmosferycznego (multi)
+> Jest to płaszczynza rozwoju dziedzin naukowych empiryczną metodą mat 👆 teo 👇 info o reprezentacji poznawczej w paradygmacie natężenia wizualnego (inter) oraz napięcia atmosferycznego (multi)
 
 - Jaki jest cel?
 
