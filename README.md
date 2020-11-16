@@ -28,6 +28,14 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 
 ### FAQ
 
+- Co jest potrzebne?
+ 
+> Po prostu, zanim pomyślisz o drodze, spójrz w górę, następnie w drogę.
+
+- Dlaczego to są mapy myśli?
+
+> Jest to przestrzeń dla rozwoju dziedzin naukowych nierozłącznie empirycznych. Metoda mat 👆 teo 👇 info o reprezentacji perspektywiczno-poznawczej paradygmatu: natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej.
+
 - Czym różni się obiekt od modelu?
 
 > **Dziedziną**  
@@ -37,15 +45,6 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 >   * Obiekt - dziedzina Rzeczywista (to co jest obserwowalne)
 >   * Model - dziedzina Abstrakcyjna (nasze wyobrażenia jaki obiekt jest)
     
-- Co to są mapy myśli?
-
-> Jest to przestrzeń dla rozwoju dziedzin naukowych nierozłącznie empirycznych. Metoda mat 👆 teo 👇 info o reprezentacji perspektywiczno-poznawczej paradygmatu: natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej.
-
-- Jaki jest cel?
- 
-> Najprościej mówiąc, zanim pomyślisz o drodze, spójrz w górę, następnie w drogę.
-=======
-
 > Cel to optymalne wykożystanie kwantu czasu poprzez współobiekt i parametr przestrzeni. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawdy w dziedzinie nauki. O Matterii spróbj napisać Ty.
 
 # Notatki :)    
