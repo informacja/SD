@@ -45,7 +45,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 >   * Obiekt - dziedzina Rzeczywista (to co jest obserwowalne)
 >   * Model - dziedzina Abstrakcyjna (nasze wyobrażenia jaki obiekt jest)
     
-> Cel to optymalne wykożystanie kwantu czasu poprzez współobiekt i parametr przestrzeni. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawdy w dziedzinie nauki. O dekompozycji Matterii spróbuj napisać Ty.
+> Cel to optymalne wykożystanie kwantu czasu poprzez współobiekt teologiczny i parametr przestrzeni. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawdy w dziedzinie nauki. O dekompozycji Matterii spróbuj napisać Ty.
 
 # Notatki :)    
     
