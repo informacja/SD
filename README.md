@@ -62,7 +62,7 @@ Przykłady lokalnych i globalnych symetrii dla systemu apikacji mobilnej.
 
 ETAPY wykładu "multi disciplinae est progressio itinere"
   - Teoria
-  - sytneza - dla mnie najbardziej interesująca część, czyli jak wykładowca stosuje w praktyce to o czym mówi (np. ostatnio realizowany projekt)
+  - sytneza - dla mnie najbardziej interesująca część, czyli jak wykładowca stosuje w praktyce to co przekazuje (np. ostatnio realizowany projekt)
   - praktyka
     
  ### Literatura i wzorce: 
