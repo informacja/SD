@@ -39,7 +39,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
     
 - Co to są mapy myśli?
 
-> Jest to przestrzeń dla rozwoju dziedzin naukowych i empirycznych. Metoda mat 👆 teo 👇 info o reprezentacji poznawczej w paradygmacie natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej.
+> Jest to przestrzeń dla rozwoju dziedzin naukowych nierozłącznie empirycznych. Metoda mat 👆 teo 👇 info o reprezentacji perspektywiczno-poznawczej paradygmatu: natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej.
 
 - Jaki jest cel?
 
