@@ -42,8 +42,11 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 > Jest to przestrzeń dla rozwoju dziedzin naukowych nierozłącznie empirycznych. Metoda mat 👆 teo 👇 info o reprezentacji perspektywiczno-poznawczej paradygmatu: natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej.
 
 - Jaki jest cel?
+ 
+> Najprościej mówiąc, zanim pomyślisz o drodze, spójrz w górę, następnie w drogę.
+=======
 
-> Cel to optymalne wykożystanie kwantu czasu razem z parametrem przestrzeni poprzez obiekt. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawdy.
+> Cel to optymalne wykożystanie kwantu czasu poprzez współobiekt i parametr przestrzeni. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawdy w dziedzinie nauki. O Matterii spróbj napisać Ty.
 
 # Notatki :)    
     
