@@ -53,9 +53,10 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
   
   > Będąc początkiem drogi przydaje się talent jak egoizm altruisty, trzeba umieć wykożystać znaczenie, poznać język swój. Bez tego dłuższa droga bezcelowa jest, dlatego należy zadbać podstawy.
   
-  W uproszczeniu wyobrażam sobie czas jak taką pionową linię czasu, na której rotuje się kostka rubika dla każdego dotknięcia punktu.
+  W uproszczeniu wyobrażam sobie czas jak taką pionową linię, niczym rozwijane jojo, na której rotuje się układanka, tak jakby kostka Rubika, dla każdego dotknięcia punktu.
+  
   Emocję wyobrażam sobie jako nieskończoną wolną linię usiłującą trafić w nieracjonalny punkt widzenia z bólem przemierzającą przestrzeń.
-  Racjonalność wydaje się być jasna, lecz złudnie trwalsza od emocji, brakuje jej proporcji. Bo razem mogą się tylko rozproszyć lub zaufać trzeciej stronie i zerwać kontakt w złudnie swojej dziedzinie.
+  Racjonalność wydaje się być jasna, lecz złudnie trwalsza od emocji, brakuje jej proporcji. Razem mogą się tylko rozproszyć, a zwiącać poprzez ufność trzeciej stronie i zerwać kontakty w swojej nieskończenie ulotnej dziedzinie.
   
 Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
