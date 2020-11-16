@@ -55,8 +55,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
   
   W uproszczeniu wyobrażam sobie czas jak taką pionową linię, niczym rozwijane jojo, na której rotuje się układanka, tak jakby kostka Rubika, dla każdego dotknięcia punktu.
   
-  Emocję wyobrażam sobie jako nieskończoną wolną barwną linię usiłującą trafić w nieracjonalny punkt prymitywnie ograniczonego widzenia 2ch kolorów, z bólem przemierzającą przestrzeń.
-  Racjonalność wydaje się być jasna, lecz złudnie trwalsza od emocji, brakuje jej proporcji. Razem mogą się tylko rozproszyć, a zwiącać poprzez ufność trzeciej stronie i zerwać kontakty w swojej nieskończenie cichej i ulotnej dziedzinie.
+ Realistą jest ten kto w słowie upatruje fundament.
   
 Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
