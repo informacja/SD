@@ -17,14 +17,14 @@
 ](https://drive.google.com/open?id=1aEgnCcPuFS5yrVLVuNkRwuGep-yxadW5)
 
 #### Dziedzna określa znaczenie słów. 
-> Dla przykładu weźmy słowo: **switch**
+> Dla przykładu "eksperymentu myślowego" weźmy słowo: **switch**
 
-> Dla każdego technika będzie znaczyć co innego: <br>
+> Dla każdego technika "myśl" będzie znaczyć co innego: <br>
 *elektronik* o przycisku,<br>
 *programista* o instrukcji warunkowej,<br>
 a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 
-> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego ... jest to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w ściśle inżynierskim słownictwie.
+> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego .. . "Połącz kropki" to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w ściśle inżynierskim słownictwie.
 
 ### FAQ
 
