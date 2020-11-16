@@ -55,7 +55,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
   
   W uproszczeniu wyobrażam sobie czas jak taką pionową linię, niczym rozwijane jojo, na której rotuje się układanka, tak jakby kostka Rubika, dla każdego dotknięcia punktu.
   
- Realistą jest ten kto w słowie upatruje fundament.
+  Przedmiot rozmowy o potrzebach, które mają: K powód by panować w czasie, M cel realizacji przestrzennej. Obydwojgu nie wyszło. Myślę że zaufali tulko sobie.
   
 Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
