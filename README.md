@@ -54,6 +54,8 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
   
   > Będąc początkiem drogi przydaje się talent jak egoizm altruisty, trzeba umieć wykożystać znaczenie, poznać język swój. Bez tego dłuższa droga bezcelowa jest, dlatego należy zadbać podstawy.
   
+  W uproszczeniu wyobrażam sobie czas jak taką pionową linię czasu, na której rotuje się kostka rubika dla każdego dotknięcia punktu.
+  
 Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
 Mapy myśli angażują kilka zmysłów poznawczych równocześnie. Przesłanie: uczmy dzieci robić mapy myśli. 
