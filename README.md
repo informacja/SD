@@ -39,11 +39,11 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
     
 - Co to są mapy myśli?
 
-> Jest to płaszczynza rozwoju dziedzin naukowych metodą teo-info o reprezentacji w paradygmacie wizualnym.
+> Jest to płaszczynza rozwoju dziedzin naukowych empiryczną metodą mat-teo-info o reprezentacji poznawczej w paradygmacie natężenia wizualnego (inter) oraz napięcia atmosferycznego (multi)
 
 - Jaki jest cel?
 
-> Cel to optymalne wykożystanie kwantu czasu z parametrem przestrzeni poprzez obiekt. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawdy.
+> Cel to optymalne wykożystanie kwantu czasu razem z parametrem przestrzeni poprzez obiekt. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawdy.
 
 # Notatki :)    
     
@@ -53,7 +53,7 @@ Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
 Mapy myśli angażują kilka zmysłów poznawczych równocześnie. Przesłanie: uczmy dzieci robić mapy myśli. 
 
-> Przy stawianiu tezy, istotą jest poszukiwanie wielowymiarowej symetrii. Suma przeciwności nie nie daje gwarancji pełnej symetrii, dlatego nie należy przyjmować zera jako wartość normalną.
+> Przy stawianiu tezy, istotą jest poszukiwanie wielowymiarowej stacjonarnrnej liniowo symetrii. Suma przeciwności nie daje gwarancji pełnej symetrii, dlatego nie należy przyjmować zera jako wartość normalną.
 
 Przykłady lokalnych i globalnych symetrii dla systemu apikacji mobilnej.
 [coggle.it](https://coggle.it/diagram/X3_hahiU9AZJpjAe/t/system-aplikacji-mobilnej)
