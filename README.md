@@ -55,7 +55,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
   
   W uproszczeniu wyobrażam sobie czas jak taką pionową linię, niczym rozwijane jojo, na której rotuje się układanka, tak jakby kostka Rubika, dla każdego dotknięcia punktu.
   
-  Przedmiot rozmowy o potrzebach, które mają: K powód by panować w czasie, M cel realizacji przestrzennej. Obydwojgu nie wyszło. Myślę że zaufali tulko sobie.
+  Przedmiot rozmowy o potrzebach, które mają pokorny: K powód by opanować skomponowane wiązanie ulegające kształtowi gawitacji w czasie, M cel silnego posłuszeństwa nuklearnego oddziaływaniu samo-realizacji przestrzennej. Obydwojgu nie wyszło. Myślę że zaufali tulko sobie.
   
 Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
