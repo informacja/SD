@@ -58,7 +58,7 @@ Mapy myśli angażują kilka zmysłów poznawczych równocześnie. Przesłanie: 
 Przykłady lokalnych i globalnych symetrii dla systemu apikacji mobilnej.
 [coggle.it](https://coggle.it/diagram/X3_hahiU9AZJpjAe/t/system-aplikacji-mobilnej)
 
-ETAPY wykładu "multi progressio iter discipline est"
+ETAPY wykładu "multi disciplinae est progressio itinere"
   - Teoria
   - sytneza - dla mnie najbardziej interesująca część, czyli jak wykładowca stosuje w praktyce to o czym mówi (np. ostatnio realizowany projekt)
   - praktyka
