@@ -39,7 +39,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
     
 - Co to są mapy myśli?
 
-> Jest to płaszczynza rozwoju dziedzin naukowych empiryczną metodą mat 👆 teo 👇 info o reprezentacji poznawczej w paradygmacie wizji natężenia (inter) oraz atmosfery napięcia  (multi)
+> Jest to przestrzeń dla rozwoju dziedzin naukowych i empirycznych. Metoda mat 👆 teo 👇 info o reprezentacji poznawczej w paradygmacie natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej.
 
 - Jaki jest cel?
 
@@ -48,6 +48,8 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 # Notatki :)    
     
   > Problem nieporozuienia nie leży w moności języków, ale w sposobie ich interpretacji.
+  
+  > Będąc na początku drogi taka cecha jak egoizm się przydaje, trzeba ją wykożystać i dobrze poznać swój język. Bez tego dłuższa droga jest bezcelowa, dlatego należy dbać o podstawy.
   
 Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
