@@ -24,7 +24,7 @@
 *programista* o instrukcji warunkowej,<br>
 a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 
-> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego .. . "Połącz kropki" to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w ściśle inżynierskim słownictwie.
+> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego .. . "Połącz kropki" to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w ściśle inżynierskim jałowm słownictwie.
 
 ### FAQ
 
