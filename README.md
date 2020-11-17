@@ -93,7 +93,7 @@ ETAPY wykładu "multi disciplinae est progressio itinere"
 
 [10] [Krzysztof Zanussi](https://youtu.be/hw2QYCrbAcY?t=395) "Uczyń z swojego życia arcydzieło"
 
-[Płyta Żelbetonowa Tygodnia](https://www.youtube.com/watch?v=3KaAAC0I_M4&list=PLTB2ditle9bRYlPGwDexwye4AeXUszkFT&index=1)
+[Płyta Żelbetowa Tygodnia](https://www.youtube.com/watch?v=3KaAAC0I_M4&list=PLTB2ditle9bRYlPGwDexwye4AeXUszkFT&index=1)
 
 ## Przypadki użycia (Use Case from UML)
 ![Systemy Dynamiczne](docs/UC.svg)
