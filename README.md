@@ -34,7 +34,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 
 - Dlaczego to są mapy myśli?
 
-> Jest to przestrzeń dla rozwoju dziedzin naukowych nierozłącznie empirycznych. Metoda mat 👆 teo 👇 info o reprezentacji perspektywiczno-poznawczej paradygmatu: natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej.
+> Jest to przestrzeń dla rozwoju dziedzin naukowych nierozłącznie empirycznych. Metoda mat 👆 teo 👇 info o reprezentacji kierunku perspektywiczno-poznawczej paradygmatu: natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej. W nauce w przypadku niż bitowy (zdarzenie o prawdopodobieństwie 1/2) teoria przeczy praktyce.
 
 - Czym różni się obiekt od modelu?
 
