@@ -92,6 +92,7 @@ ETAPY wykładu "multi disciplinae est progressio itinere"
 [9] [Krzysztof](https://youtu.be/FmSsNUkiGM8?t=1179) [Meissner](https://www.youtube.com/watch?v=HhSdMIeNRHU) "Na początku było prawo"
 
 [10] [Krzysztof Zanussi](https://youtu.be/hw2QYCrbAcY?t=395) "Uczyń z swojego życia arcydzieło"
+
  Skromna i ograniczona:
 [Płyta Żelbetowa Tygodnia](https://www.youtube.com/watch?v=3KaAAC0I_M4&list=PLTB2ditle9bRYlPGwDexwye4AeXUszkFT&index=1)
 
