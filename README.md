@@ -16,7 +16,7 @@
  ![Systemy Dynamiczne](docs/SD.png)
 ](https://drive.google.com/open?id=1aEgnCcPuFS5yrVLVuNkRwuGep-yxadW5)
 
-#### Dziedzna określa znaczenie słów. 
+#### Dziedzna określa ograniczenie znaczenia słów.
 > Dla przykładu "eksperymentu myślowego" weźmy słowo: **switch**
 
 > Dla każdego technika "myśl" będzie znaczyć co innego: <br>
