@@ -1,5 +1,5 @@
 # [Systemy Dynamiczne](https://coggle.it/diagram/X1pYv04r0v3pMzn-/t/-/35e679aefe319b534d32b8339196662afced338bf7a6c6bd9cfcdc6709ff4f98) - Mapy
-### *Mapy myśli* trakcie tworzenia :
+### W trakcie tworzenia :
 
 [Sygnał :zap:](https://coggle.it/diagram/X1j0eG89oR9IEMgE/t/sygna%C5%82-zap/a41b41437749651ef746a7f43989e6f4ae836821485ebf3ca3dc237364c51249)
 [Obiekt :film_projector:](https://coggle.it/diagram/X1j6TG89oQteENAx/t/obiekt-film_projector/d20da092af43109ed12b50416ec609243b78d0a4bb31689ccbc3d0acc9b97edf)
@@ -32,7 +32,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
  
 > Po prostu, zanim pomyślisz o drodze, spójrz w górę, następnie w drogę.
 
-- Dlaczego to są mapy myśli?
+- Dlaczego to są mapy myśli i ciągi przyczynowo skutkowe?
 
 > Jest to przestrzeń dla rozwoju dziedzin naukowych nierozłącznie empirycznych. Metoda mat 👆 teo 👇 info o reprezentacji kierunku perspektywiczno-poznawczej paradygmatu: natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej. W nauce w przypadku niż szczególny bitowy (zdarzenie o prawdopodobieństwie 1/2) teoria przeczy praktyce.
 
