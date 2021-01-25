@@ -24,7 +24,7 @@
 *programista* o instrukcji warunkowej,<br>
 a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 
-> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego .. . "Połącz kropki" to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w ściśle inżynierskim jałowm słownictwie.
+> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego .. . "Połącz kropki" to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w "ściśle wyważonym" inżynierskim słownictwie.
 
 ### FAQ
 
@@ -59,7 +59,7 @@ bardziej metaforycznie
   
   W uproszczeniu wyobrażam sobie czas jak taką pionową linię, niczym rozwijane jojo, na której rotuje się układanka, tak jakby kostka Rubika, dla każdego dotknięcia punktu.
   
-  Przedmiot rozmowy o potrzebach, które mają pokorny: K powód by opanować skomponowane wiązanie ulegające kształtowi gawitacji w czasie, M cel silnego posłuszeństwa nuklearnego oddziaływaniu samo-realizacji przestrzennej. Obydwojgu nie wyszło. Myślę że zaufali tulko sobie.
+  Przedmiot rozmowy o potrzebach pokornych. Powód by opanować skomponowane wiązanie ulegające kształtowi gawitacji w czasie, cel silnego podobieństwa/posłuszeństwa nuklearnego oddziaływaniu samo-realizacji przestrzennej. Wiązanie nie wyszło, osobiście nazwywam to "kryzysem zaufania" tylko sobie jako obrazowej strukturze.
   
 Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
