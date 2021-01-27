@@ -37,17 +37,16 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 >   * Obiekt - dziedzina Rzeczywista (to co jest obserwowalne)
 >   * Model - dziedzina Abstrakcyjna (nasze wyobrażenia jaki obiekt jest)
     
-- Dlaczego to są mapy myśli i ciągi przyczynowo skutkowe?
+- Dlaczego do notowania wykorzystywane są mapy myśli i ciągi przyczynowo skutkowe?
 
 > Jest to przestrzeń dla rozwoju dziedzin naukowych nierozłącznie empirycznych. Metoda mat 👆 teo 👇 info o reprezentacji kierunku perspektywiczno-poznawczej paradygmatu: natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej. W nauce w przypadku niż szczególny bitowy (zdarzenie o prawdopodobieństwie 1/2) teoria przeczy praktyce. (Wynika to z komputerowego sposobu wykonywania obliczeń)
 
 ------------------
-bardziej metaforycznie
+Słowem, bardziej metaforycznie/alegoryczne:
 
 - Co jest potrzebne?
  
 > Po prostu, zanim pomyślisz o drodze, spójrz w górę, następnie w drogę.
-
 
 > Cel to optymalne wykożystanie kwantu czasu poprzez współobiekt inter?logiczny i zorientowanie parametrów przestrzeni. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawidłowości na płaszczyźnie dziedziny nauk. O dekompozycji Matematycznej spróbuj napisać Ty. 
 
