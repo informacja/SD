@@ -97,5 +97,8 @@ ETAPY wykładu "multi disciplinae est progressio itinere"
 
 [10] [Krzysztof Zanussi](https://youtu.be/hw2QYCrbAcY?t=395) "Uczyń z swojego życia arcydzieło"
 
+> Dziedzina rozwiązywania ? problemów
+> ![Systemy Dynamiczne](docs/problemSolvingTendency.png)
+
 ## Przypadki użycia (Use Case from UML)
 ![Systemy Dynamiczne](docs/UC.svg)
