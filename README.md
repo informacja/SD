@@ -1,5 +1,5 @@
 # [Systemy Dynamiczne](https://coggle.it/diagram/X1pYv04r0v3pMzn-/t/-/35e679aefe319b534d32b8339196662afced338bf7a6c6bd9cfcdc6709ff4f98)
-### Mapay relatywne słownictwa w trakcie tworzenia:
+### Poniżej diagramy relatywnego słownictwa (w trakcie tworzenia): 
 
 [Sygnał :zap:](https://coggle.it/diagram/X1j0eG89oR9IEMgE/t/sygna%C5%82-zap/a41b41437749651ef746a7f43989e6f4ae836821485ebf3ca3dc237364c51249)
 [Obiekt :film_projector:](https://coggle.it/diagram/X1j6TG89oQteENAx/t/obiekt-film_projector/d20da092af43109ed12b50416ec609243b78d0a4bb31689ccbc3d0acc9b97edf)
@@ -8,7 +8,7 @@
 
 #### Podstawy 
 [
-![Systemy Dynamiczne](docs/SDM.svg)
+ ![Systemy Dynamiczne](docs/SDM.svg)
 ](https://drive.google.com/file/d/1Ed_OcE8szFmOquqJNxDQRGswGA26TAQb/view?usp=sharing)
 
 #### Opis
@@ -36,7 +36,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 
 >   * Obiekt - dziedzina Rzeczywista (to co jest obserwowalne)
 >   * Model - dziedzina Abstrakcyjna (nasze wyobrażenia jaki obiekt jest)
-    
+  
 - Dlaczego do notowania wykorzystywane są mapy myśli i ciągi przyczynowo skutkowe?
 
 > Jest to przestrzeń dla rozwoju dziedzin naukowych nierozłącznie empirycznych. Metoda mat 👆 teo 👇 info o reprezentacji kierunku perspektywiczno-poznawczej paradygmatu: natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej. W nauce w przypadku niż szczególny bitowy (zdarzenie o prawdopodobieństwie 1/2) teoria przeczy praktyce. (Wynika to z komputerowego sposobu wykonywania obliczeń)
@@ -54,29 +54,28 @@ Słowem, bardziej metaforycznie/alegoryczne:
     
   > Problem nieporozuienia nie leży w moności języków, ale w sposobie ich interpretacji.
 
-  > Będąc początkiem drogi przydaje się talent jak egoizm altruisty, trzeba umieć wykożystać znaczenie, poznać język swój. Bez tego dłuższa droga bezcelowa jest, dlatego należy zadbać podstawy.
+  > Będąc początkiem drogi przydaje się talent jak egoizm altruisty, trzeba umieć wykożystać znaczenie, poznać język swój. Bez tego dłuższa droga bezcelowa jest, dlatego należy zadbać o podstawy.
   
-  W uproszczeniu wyobrażam sobie czas jak taką pionową linię, niczym rozwijane jojo, na której rotuje się układanka, tak jakby kostka Rubika, dla każdego dotknięcia punktu.
+  W uproszczeniu wyobrażam sobie czas jak taką pionową linię, niczym rozwijane jojo, na której rotuje się układanka, tak jakby kostka Rubika, dla każdego poruszenia węzła.
   
   Przedmiot rozmowy o potrzebach pokornych. Powód by opanować skomponowane wiązanie ulegające kształtowi gawitacji w czasie, cel silnego podobieństwa/posłuszeństwa nuklearnego oddziaływaniu samo-realizacji przestrzennej. Wiązanie nie wyszło, osobiście nazwywam to "kryzysem zaufania" tylko sobie jako obrazowej strukturze.
   
 Dlaczego używać map myśli?
 https://youtu.be/5nTuScU70As <br>
-Mapy myśli angażują kilka zmysłów poznawczych równocześnie. Przesłanie: uczmy dzieci robić mapy myśli. 
+Mapy myśli angażują kilka zmysłów poznawczych równocześnie. Przesłanie: uczmy dzieci robić notatki.
 
-> Przy stawianiu tezy, istotą jest poszukiwanie wielowymiarowej stacjonarnrnej liniowo symetrii. Suma przeciwności nie daje gwarancji pełnej symetrii, dlatego nie należy przyjmować zera jako wartość normalną.
+> Przy stawianiu tezy, istotą jest poszukiwanie wielowymiarowej stacjonarnrnej liniowo symetrii. Suma przeciwności nie daje gwarancji pełnej symetrii (teoretycznie dzięki temu istniejemy), dlatego nie należy przyjmować zera jako wartość normalną.
 
 Przykłady lokalnych i globalnych symetrii dla systemu apikacji mobilnej.
-[coggle.it](https://coggle.it/diagram/X3_hahiU9AZJpjAe/t/system-aplikacji-mobilnej)
 
-ETAPY wykładu "multi disciplinae est progressio itinere"
-  - Teoria
+Etapy wykładu "multi disciplinae itinere progressio est"
+  - teoria
   - sytneza - dla mnie najbardziej interesująca część, czyli jak wykładowca stosuje w praktyce to co przekazuje (np. ostatnio realizowany projekt)
   - praktyka
-    
+
  ### Literatura i wzorce: 
 [0] Anne [Urai](docs/urai.pdf) "BIASES IN PERCEPTUAL"
-  
+
 [1] Jan T. Duda "Modele matematyczne, struktury i algorytmy nadrzędnego sterowania komputerowego"
 
 [2] Tomasz Zieliński "Reprezentacje sygnałów niestacjonarnych typu czas-częstotliwość i czas-skala"
@@ -99,6 +98,17 @@ ETAPY wykładu "multi disciplinae est progressio itinere"
 
 > Dziedzina rozwiązywania ? problemów
 > ![Systemy Dynamiczne](docs/problemSolvingTendency.png)
+
+> Postawmy sobie teraz pytanie, jak subiektywnie są rozumiane  słowa użyte na powyższym diagramie?
+
+--------------
+Problem/węzeł/przypadek -
+
+--------------
+Dziedzina/czasoprzestrzeń/ograniczenia -
+
+--------------
+Rozwiązanie/wyprostowanie/zagęszczenie -
 
 ## Przypadki użycia (Use Case from UML)
 ![Systemy Dynamiczne](docs/UC.svg)
