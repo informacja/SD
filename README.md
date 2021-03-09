@@ -16,13 +16,13 @@
  ![Systemy Dynamiczne](docs/SD.png)
 ](https://drive.google.com/open?id=1aEgnCcPuFS5yrVLVuNkRwuGep-yxadW5)
 
-#### Dziedzna określa ograniczenie znaczenia słów.
+#### Dziedzna określa ograniczenie *warstwy eksperckiej* znaczenia słów
 > Dla przykładu "eksperymentu myślowego" weźmy słowo: **switch**
 
 > Dla każdego technika "myśl" będzie znaczyć co innego: <br>
-*elektronik* o przycisku,<br>
+*elektronik* zapewne opowie o przycisku,<br>
 *programista* o instrukcji warunkowej,<br>
-a *informatyk* pomyśli o urządzeniu sieciowym.<br>
+a *informatyk* przykładowo pomyśli o urządzeniu sieciowym.<br>
 
 > Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego .. . "Połącz kropki" to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w "ściśle wyważonym" inżynierskim słownictwie.
 
@@ -32,7 +32,7 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 
 > **Dziedziną**  
 
-> abstrakcja jest uproszczeniem rzeczywistości, w sensie formalnym badań
+> abstrakcja jest uproszczeniem rzeczywistości, w sensie formalnym badań. Najczęściej mówi się o umownym, warstwowym modelu odpowiedzalności i zależności.
 
 >   * Obiekt - dziedzina Rzeczywista (to co jest obserwowalne)
 >   * Model - dziedzina Abstrakcyjna (nasze wyobrażenia jaki obiekt jest)
@@ -45,13 +45,13 @@ a *informatyk* pomyśli o urządzeniu sieciowym.<br>
 Słowem, bardziej metaforycznie/alegoryczne:
 
 - Co jest potrzebne?
- 
+
 > Po prostu, zanim pomyślisz o drodze, spójrz w górę, następnie w drogę.
 
-> Cel to optymalne wykożystanie kwantu czasu poprzez współobiekt inter?logiczny i zorientowanie parametrów przestrzeni. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawidłowości na płaszczyźnie dziedziny nauk. O dekompozycji Matematycznej spróbuj napisać Ty. 
+> Cel to optymalne wykorzystanie kwantu czasu poprzez współobiekt inter?logiczny i zorientowanie parametrów przestrzeni. Czas nie jest celem, jest jakby iluzorycznym tykaniem towarzyszącym poszukiwaniu prawidłowości na płaszczyźnie dziedziny nauk. O dekompozycji Matematycznej spróbuj napisać Ty.
 
 # Notatki :)    
-    
+
   > Problem nieporozuienia nie leży w moności języków, ale w sposobie ich interpretacji.
 
   > Będąc początkiem drogi przydaje się talent jak egoizm altruisty, trzeba umieć wykożystać znaczenie, poznać język swój. Bez tego dłuższa droga bezcelowa jest, dlatego należy zadbać o podstawy.
@@ -99,16 +99,16 @@ Etapy wykładu "multi disciplinae itinere progressio est"
 > Dziedzina rozwiązywania ? problemów
 > ![Systemy Dynamiczne](docs/problemSolvingTendency.png)
 
-> Postawmy sobie teraz pytanie, jak subiektywnie są rozumiane  słowa użyte na powyższym diagramie?
+> Postawmy sobie teraz pytanie, jak subiektywnie są rozumiane słowa użyte na powyższym diagramie?
 
 --------------
-Problem/węzeł/przypadek -
+Problem/przypadek/węzeł -
 
 --------------
 Dziedzina/czasoprzestrzeń/ograniczenia -
 
 --------------
-Rozwiązanie/wyprostowanie/zagęszczenie -
+Wyprostowanie/zagęszczenie/rozwiązanie -
 
 ## Przypadki użycia (Use Case from UML)
 ![Systemy Dynamiczne](docs/UC.svg)
