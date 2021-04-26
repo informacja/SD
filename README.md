@@ -6,7 +6,7 @@
 [Model :thought_balloon:](https://coggle.it/diagram/X1j5ak37tNCUiQML/t/model-thought_balloon/08be4cfb1e4ba2a52af843f003a05e8496bd500e76400278ed1be801fba9d828)
 =========
 
-#### Podstawy 
+#### Podstawy <font color="white"> obserwowalności </font>
 [
  ![Systemy Dynamiczne](docs/SDM.svg)
 ](https://drive.google.com/file/d/1Ed_OcE8szFmOquqJNxDQRGswGA26TAQb/view?usp=sharing)
