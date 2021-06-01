@@ -11,7 +11,7 @@
  ![Systemy Dynamiczne](docs/SDM.svg)
 ](https://drive.google.com/file/d/1Ed_OcE8szFmOquqJNxDQRGswGA26TAQb/view?usp=sharing)
 
-#### Opis
+#### Opis - ARMAX input (Obserwowalność i Osiągalność)
 [
  ![Systemy Dynamiczne](docs/SD.png)
 ](https://drive.google.com/open?id=1aEgnCcPuFS5yrVLVuNkRwuGep-yxadW5)
