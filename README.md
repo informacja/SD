@@ -16,7 +16,7 @@
  ![Systemy Dynamiczne](docs/SD.png)
 ](https://drive.google.com/open?id=1aEgnCcPuFS5yrVLVuNkRwuGep-yxadW5)
 
-#### Dziedzna określa ograniczenie *warstwy eksperckiej* znaczenia słów
+#### Dziedzina określa ograniczenie *warstwy eksperckiej* znaczenia słów
 > Dla przykładu "eksperymentu myślowego" weźmy słowo: **switch**
 
 > Dla każdego technika "myśl" będzie znaczyć co innego: <br>
@@ -24,7 +24,7 @@
 *programista* o instrukcji warunkowej,<br>
 a *informatyk* przykładowo pomyśli o urządzeniu sieciowym.<br>
 
-> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego .. . "Połącz kropki" to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w "ściśle wyważonym" inżynierskim słownictwie.
+> Słowo jest jedno, ale kontekst czy też scena się zmienia, dlatego .. . "Kropki" to język formalny (jak Matematyka), który znajdzie zastosowanie nie tylko w "ściśle wyważonym" inżynierskim słownictwie.
 
 ### FAQ
 
@@ -32,7 +32,7 @@ a *informatyk* przykładowo pomyśli o urządzeniu sieciowym.<br>
 
 > **Dziedziną**  
 
-> abstrakcja jest uproszczeniem rzeczywistości, w sensie formalnym badań. Najczęściej mówi się o umownym, warstwowym modelu odpowiedzalności i zależności.
+> Abstrakcja jest uproszczeniem rzeczywistości, w sensie formalnym badań. Najczęściej mówi się o umownym, warstwowym modelu odpowiedzalności i zależności.
 
 >   * Obiekt - dziedzina Rzeczywista (to co jest obserwowalne)
 >   * Model - dziedzina Abstrakcyjna (nasze wyobrażenia jaki obiekt jest)
