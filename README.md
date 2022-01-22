@@ -52,7 +52,7 @@ Słowem, bardziej metaforycznie/alegoryczne:
 
 # Notatki :)    
 
-  > Problem nieporozuienia nie leży w moności języków, ale w sposobie ich interpretacji.
+  > Problem nieporozumienia nie leży w mnogości języków, ale w sposobie ich interpretacji.
 
   > Będąc początkiem drogi przydaje się talent jak egoizm altruisty, trzeba umieć wykożystać znaczenie, poznać język swój. Bez tego dłuższa droga bezcelowa jest, dlatego należy zadbać o podstawy.
   
