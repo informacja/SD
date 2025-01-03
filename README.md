@@ -39,7 +39,8 @@ a *informatyk* przykładowo pomyśli o urządzeniu sieciowym.<br>
   
 - Dlaczego do notowania wykorzystywane są mapy myśli i ciągi przyczynowo skutkowe?
 
-> Jest to przestrzeń dla rozwoju dziedzin naukowych nierozłącznie empirycznych. Metoda mat 👆 teo 👇 info o reprezentacji kierunku perspektywiczno-poznawczej paradygmatu: natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej. W nauce w przypadku niż szczególny bitowy (zdarzenie o prawdopodobieństwie 1/2) teoria przeczy praktyce. (Wynika to z komputerowego sposobu wykonywania obliczeń)
+> Jest to przestrzeń dla rozwoju dziedzin empirycznych.
+> <!-- Metoda mat 👆 teo 👇 info o reprezentacji kierunku perspektywiczno-poznawczej paradygmatu: natężenia wizji (inter) czasowej oraz napięcia atmosfery (multi) przestrzennej. W nauce w przypadku niż szczególny bitowy (zdarzenie o prawdopodobieństwie 1/2) teoria przeczy praktyce. (Wynika to z komputerowego sposobu wykonywania obliczeń)-->
 
 ------------------
 Słowem, bardziej metaforycznie/alegoryczne:
